@@ -1,3 +1,5 @@
 learning git repos
 
 git is distributed version constrol system
+
+merging the braches
